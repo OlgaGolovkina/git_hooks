@@ -1,6 +1,7 @@
 import unittest
-import sys, os
-from main import *
+import sys
+import os
+from main import nitro_salt
 
 
 sys.path.append(os.getcwd())
